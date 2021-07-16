@@ -5,9 +5,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/diozhn/finapi)](https://github.com/diozhn/finapi/network)
 [![GitHub stars](https://img.shields.io/github/stars/diozhn/finapi)](https://github.com/diozhn/finapi/stargazers)
 
-<!--ts-->
-  *[Requisitos](###Requisitos)
-<!--te-->
 
 <h4 align="center"> 
 	Finapi 🚀 Projeto Concluído  
