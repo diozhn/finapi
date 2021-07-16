@@ -85,5 +85,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com ❤️ por Diogo Mendes 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@diozhn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/diozhn)](https://twitter.com/diozhn) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diozhn/)](https://www.linkedin.com/in/diozhn/) 
+[![Twitter Badge](https://img.shields.io/badge/-@diozhn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/diozhn)](https://twitter.com/diozhn) [![Linkedin Badge](https://img.shields.io/badge/-Diogo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diozhn/)](https://www.linkedin.com/in/diozhn/) 
 [![Gmail Badge](https://img.shields.io/badge/-diogo@blitzen.cc-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogo@blitzen.cc)](mailto:diogo@blitzen.cc)
